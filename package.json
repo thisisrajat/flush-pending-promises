@@ -1,7 +1,7 @@
 {
   "name": "process-pending-promises",
   "version": "1.0.0",
-  "description": "Processes all the pending promises to correctly test all the side effects caused, for determinstic testing",
+  "description": "Processes all the pending promises to correctly test all the side effects caused, for deterministic testing",
   "main": "index.js",
   "author": "Rajat Jain",
   "license": "MIT",
