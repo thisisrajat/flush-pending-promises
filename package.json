@@ -1,0 +1,14 @@
+{
+  "name": "process-pending-promises",
+  "version": "1.0.0",
+  "description": "Processes all the pending promises to correctly test all the side effects caused, for determinstic testing",
+  "main": "index.js",
+  "author": "Rajat Jain",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "22.4.3"
+  },
+  "scripts": {
+    "test:watch": "jest examples/ --watch"
+  }
+}
