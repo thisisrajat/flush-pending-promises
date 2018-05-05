@@ -1,4 +1,4 @@
-# Process Pending Promises 😳
+# Process Pending Promises 🤠
 
 This is a single file utility which helps in processing all the pending promises.
 
